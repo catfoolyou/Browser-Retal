@@ -4,9 +4,9 @@ F-29 Retatliator in the browser using JS-DOS. The original copy protection is by
 ### How to play
 Enter the following commands
 1) `cd RETAL`
-2) `RETAL.EXE`
-   
-(type retal then press tab, then replace bat with exe if you cant type periods in the console)
+2) `RETAL.BAT`
+
+Use Tab to autocomplete commands
 
 ### DOSBox Shortcuts
 While running the game in windowed mode, it may be useful to use DOSBox's Control+F10 shortcut to bind the mouse into the game window. This will prevent the cursor from going outside the game window during gameplay while steering with the mouse. Pressing Control+F10 again will unlock the mouse from the game window. You can also use Control+F12 to speed up the game if it lags too much and Control+F11 to slow it down.
